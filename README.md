@@ -3,7 +3,9 @@
 A place to share practical projects, experiments, and lessons—and learn from what others are building.
 
 The aim is to make our work useful to someone else: explain the problem, share the approach, report what happened, and identify what we would do differently.
+## Guides
 
+- [Stateful Project Practices](stateful-project-practices.md) — Preserve approved work, control changes, and maintain continuity.
 ## Areas of Interest
 
 - **AI-assisted project work:** Prompts, workflows, and ways to produce reliable results with fewer iterations.
