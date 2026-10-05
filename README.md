@@ -4,7 +4,7 @@ A place to share practical projects, experiments, and lessons—and learn from w
 
 The aim is to make our work useful to someone else: explain the problem, share the approach, report what happened, and identify what we would do differently.
 ## Guides
-
+- [Project Sharing Template](project-sharing-template.md) — Introduce your project, share lessons, and ask for feedback.
 - [Stateful Project Practices](stateful-project-practices.md) — Preserve approved work, control changes, and maintain continuity.
 ## Areas of Interest
 
