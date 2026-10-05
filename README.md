@@ -6,6 +6,9 @@ The aim is to make our work useful to someone else: explain the problem, share t
 ## Guides
 - [Project Sharing Template](project-sharing-template.md) — Introduce your project, share lessons, and ask for feedback.
 - [Stateful Project Practices](stateful-project-practices.md) — Preserve approved work, control changes, and maintain continuity.
+- ## Project Examples
+
+- [Building a shared project lab with GitHub and AI](https://github.com/GerriProjectLab/Learning-Hub/discussions/2) — Our first project update, including lessons and an invitation for feedback.
 ## Areas of Interest
 
 - **AI-assisted project work:** Prompts, workflows, and ways to produce reliable results with fewer iterations.
