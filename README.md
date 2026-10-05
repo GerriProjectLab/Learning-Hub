@@ -20,7 +20,7 @@ The aim is to make our work useful to someone else: explain the problem, share t
 These are starting topics. Contributions about other practical projects are welcome.
 
 ## Share What You’re Doing
-
+[Introduce yourself in the welcome discussion](https://github.com/GerriProjectLab/Learning-Hub/discussions/1).
 Open the **Discussions** tab to introduce yourself, share an experiment, ask a question, or offer feedback.
 
 A useful project update answers:
